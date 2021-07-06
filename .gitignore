@@ -8,10 +8,7 @@
 .pnp.js
 
 # testing
-/coverage
 
-# productions
-/build
 
 # misc
 .DS_Store
